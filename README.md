@@ -7,8 +7,7 @@ This project implements an automated system to identify various diseases in padd
 The dataset used for this project is sourced from **Kaggle**.
 
 * **Dataset Link:** [Rice Leaf Disease Dataset (Kaggle)](https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases) 
-
-
+* **Enhanced Dataset used**: [Download Dataset Here](https://drive.google.com/drive/folders/1Rd_pCpp-T4QI8Nrs13_5vtP14swluVBW?usp=sharing)
 * **Description:** A collection of 1500 leaf images across four classes, including healthy leaves and common diseases, captured in various environmental conditions.
 
 ## 🦠 Diseases Detected
