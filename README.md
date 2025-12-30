@@ -65,9 +65,9 @@ After classification, the system isolates the diseased part of the leaf:
 
 ## 👥 Team Members (Team A1)
 
-* **Narla Sathvika** (20WH1A0528) 
+* **Narla Sathvika** (20WH1A0528)
+* **Kashetty Deekshitha** (20WH1A0557)  
 * **Peddi Vahnika** (20WH1A0554) 
-* **Kashetty Deekshitha** (20WH1A0557) 
 * **Project Guide:** Dr. Nara Sreekanth (Associate Professor) 
 
 ## 📜 Acknowledgments
