@@ -42,7 +42,7 @@ The system is trained to identify the following categories:
 4. **Area Measurement Logic**
 After classification, the system isolates the diseased part of the leaf:
 * **Contour Detection:** Identifies the boundaries of the infected spots.
-* **Pixel to mm Conversion:** Uses a resolution constant (0.1 mm/pixel).
+* **Pixel resolution in mm/pixel:** Uses a resolution constant (0.1 mm/pixel).
 * **Formula:** $$\text{Affected Area } (mm^2) = (\text{Length} \times \text{Width}) \times \text{Pixel Resolution}$$
 * **Severity:** Calculated as `(Affected Area / Total Leaf Area) * 100`.
 
